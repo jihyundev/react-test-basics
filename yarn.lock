@@ -5797,7 +5797,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nock@npm:^13.3.8":
+"nock@npm:^13.5.4":
   version: 13.5.4
   resolution: "nock@npm:13.5.4"
   dependencies:
@@ -6253,7 +6253,7 @@ __metadata:
     immer: "npm:^10.0.2"
     jest: "npm:^29.7.0"
     jest-environment-jsdom: "npm:^29.7.0"
-    nock: "npm:^13.3.8"
+    nock: "npm:^13.5.4"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
     react-query: "npm:^3.39.3"
